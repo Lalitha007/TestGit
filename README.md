@@ -1,3 +1,3 @@
 # TestGit
 
-This file containns information about test data samples.
+This file contains information about test data samples.
